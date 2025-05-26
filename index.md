@@ -6,3 +6,7 @@
 ###### H6 header
 
 ![Image of a cat typing](https://res.cloudinary.com/jerrick/image/upload/v1532802654/a3e47wjih6jh8ilxwxcz.jpg)
+
+``` Java
+String str = "Hello, world!";
+```
