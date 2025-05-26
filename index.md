@@ -10,3 +10,7 @@
 ``` Java
 String str = "Hello, world!";
 ```
+
+- [ ] Bears.
+- [ ] Beets.
+- [ ] Battlestar Galactica.
